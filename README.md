@@ -1,6 +1,6 @@
 # Investigation-and-implementation-of-SLAM-methods
 
-This project will develop autonomous indor navigation.
+This project will develop autonomous indoor navigation.
 
 ## Key learnings:
 - SLAM
