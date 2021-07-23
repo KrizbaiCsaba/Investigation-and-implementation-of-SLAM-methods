@@ -25,5 +25,4 @@ applicable to the navigation of mobile robots in the presence of obstacles
 - Hokuyu URG
 - RaspbarryPi4
 - ROS
-- C#
 - autonom navigation
